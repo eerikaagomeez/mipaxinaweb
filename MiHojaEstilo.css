@@ -1,0 +1,11 @@
+body {
+	font-family: courier, fixed, monospace;
+	cbody {
+	color: #FF5C98;
+	background-color: black;
+	text-align: justify;
+}
+h1{
+	text-decoration: underline;
+	text-align: center;
+}
